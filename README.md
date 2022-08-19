@@ -1,33 +1,22 @@
-### Hi there 👋
+### Olá sou Cleber Batista
+
 
 
 👨‍💻 Atualmente estou estudando desenvolvimento web com javascript html e css.
 
 🦭 Contatos com tecnologias
   🐍 Python
-  ☕  Java
+  ☕ JavaScript
+  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joncleber&show_icons=true&theme=darck"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joncleber"/>
+ 
   
   
-<html>
-<head>
-  <title>Menu Dropdown - Linha de Código</title>
-  <link rel="stylesheet" type="text/css"  href="estilo.css" />
-</head>
-<body>
-<ul id="nav">
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Sobre</a></li>
-    <li><a href="#">O que Fazemos?</a>
-      <ul>
-        <li><a href="#">Web Design</a></li>
-        <li><a href="#">Hospedagem</a></li>
-        <li><a href="#">SEO</a></li>
-        <li><a href="#">Sistemas</a></li>
-      </ul>
-    </li>
+</div>
+  
+  
+  
 
-    <li><a href="#">Contato</a></li>
-  </ul>
-</body>
-</html>
   
